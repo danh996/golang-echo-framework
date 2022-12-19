@@ -1,0 +1,14 @@
+[
+    {
+        "UserId":1,
+        "Id":1,
+        "Title":"first post",
+        "Body":"First Body"
+    },
+    {
+        "UserId":2,
+        "Id":2,
+        "Title":"second post",
+        "Body":"Second Body"
+    }
+]
